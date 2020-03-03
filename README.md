@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./example_dag.png "Sample Output"
+[image1]: ./example-dag.png "Sample Output"
 
 
 
