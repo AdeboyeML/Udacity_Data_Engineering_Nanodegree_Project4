@@ -84,9 +84,6 @@ class StageToRedshiftOperator(BaseOperator):
         redshift.run(copy_table)
         
         self.log.info("Completed staging data from S3 to Redshift table")
-        
-        
-
 
 
 
